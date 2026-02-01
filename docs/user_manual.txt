@@ -1,0 +1,8 @@
+USER MANUAL
+
+1. Open Jenkins Dashboard
+2. Run Freestyle Job
+3. Check Console Output
+4. Open Multibranch Pipeline
+5. View branch builds
+6. View Jenkinsfile

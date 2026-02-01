@@ -1,0 +1,6 @@
+TROUBLESHOOTING
+
+1. If mvn not found -> configure Maven path
+2. If Git not found -> install Git
+3. If build fails -> check console output
+4. If Jenkins not loading -> restart Jenkins

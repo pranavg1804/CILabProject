@@ -1,0 +1,11 @@
+INSTALLATION GUIDE
+
+1. Install Java JDK
+2. Install Git
+3. Install Maven
+4. Install Jenkins
+5. Start Jenkins
+6. Open http://localhost:8080
+7. Complete setup wizard
+8. Install required plugins
+9. Configure Git and Maven
